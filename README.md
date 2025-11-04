@@ -34,7 +34,7 @@ The objective is to identify sales trends, top-performing products, peak order t
 ---
 
 ### 🟡 2. **Best/Worst Seller Page**
-![Best/Worst Seller](images/best_worsdt_page.png)
+![Best/Worst Seller](images/best_worst_page.png)
 
 - Top & Bottom 5 pizzas by:
   - 💰 Revenue  
